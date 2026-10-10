@@ -35,4 +35,4 @@ The script allows fast flying by controlling mouse movement while switching betw
 2. Start the game in fullscreen mode.
 3. Press: F1
 4. Press: Shift+F
-5. Hold: R_Click and F
+5. Hold: R_Click and X
