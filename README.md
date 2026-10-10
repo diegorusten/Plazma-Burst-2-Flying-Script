@@ -37,4 +37,4 @@ The script allows fast flying by controlling mouse movement while switching betw
 4. Press: Shift+F
 5. Hold: R_Click and X
 
-images/iconpb2.png
+![Flying Script Icon]images/iconpb2.png
