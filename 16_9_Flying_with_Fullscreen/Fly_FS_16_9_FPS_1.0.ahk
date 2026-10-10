@@ -76,7 +76,7 @@ current_logic := "match"
 busy := false
 
 MoveMouse() {
-    global moving, direction, First, x_negative, x_positive, x, RANGE, SAFETY, F1press, y, x_pressed, h_range, rclick, rbSent, current_fps, current_phy
+    global moving, direction, First, x_negative, x_positive, x, RANGE, SAFETY, F1press, y, x_pressed, h_range, rclick, rbSent, current_fps, current_phy, busy
 
     if !moving
         return
