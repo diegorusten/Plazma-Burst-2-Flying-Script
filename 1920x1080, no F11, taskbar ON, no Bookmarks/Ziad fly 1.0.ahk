@@ -303,7 +303,7 @@ $*RButton::{
 }
 
 $*RButton up::{
-    global rbSent
+    global rbSent, rclick
 
     if rbSent {
         Send "{Blind}{RButton up}"
