@@ -50,7 +50,6 @@ Different FPS settings provide different movement mechanics and abilities.
    - Standard method:
      - Jump with a gun while your back is against a wall.
      - Shoot and press **X**  when you touch the floor.
-     - 
 
 ## Low 30 FPS
 
