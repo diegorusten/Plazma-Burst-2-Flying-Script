@@ -7,10 +7,12 @@ The script allows fast flying by controlling mouse movement while switching betw
 ## Requirements
 
 - Windows
-- AutoHotkey v2.0+
-- Fullscreen game mode recommended
+- AutoHotkey v2.0+ or downloading .exe
 
----
+## 📥 Download
+
+Download the latest version here:
+https://github.com/diegorusten/Plazma-Burst-2-Flying-Script/releases
 
 # Hotkeys
 
