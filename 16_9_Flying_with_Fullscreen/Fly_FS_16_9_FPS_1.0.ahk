@@ -341,7 +341,7 @@ $*RButton up::{
 
             busy := true
             if current_fps = 20 {
-                Change_Fps("low", 30, "unlimited")
+                Change_Fps("low", 30, low_30)
             }
             else {
                 Change_Fps("low", 20, low_20)
