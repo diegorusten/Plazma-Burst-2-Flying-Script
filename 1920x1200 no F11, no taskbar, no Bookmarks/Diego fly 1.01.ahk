@@ -17,8 +17,8 @@ h_range := RANGE/2
 F1press := false
 moving := false
 x_pressed := false
-R_released := 0
 R_limit := 20
+R_released := R_limit+1
 MouseGetPos(&x, &y)
 x_positive := x + h_range
 x_negative := x- h_range
