@@ -1,18 +1,7 @@
 # PB2 Flying Script (AutoHotkey v2)
 
-An AutoHotkey v2 script that automates flying movement and FPS/physics switching inside PB2.
-
-The script allows fast flying by controlling mouse movement while switching between different FPS, physics, and logic settings.
-
-## Requirements
-
-- Windows
-- AutoHotkey v2.0+ or downloading .exe
-
-## 📥 Download
-
-Download the latest version here:
-https://github.com/diegorusten/Plazma-Burst-2-Flying-Script/releases
+This Script works with 1440p, 1920x1080 and 1920x1200
+press  **CTRL+SHIFT+B** to hide the bookmarks and use it with taskbar ON
 
 # Hotkeys
 
