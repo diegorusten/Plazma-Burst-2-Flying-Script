@@ -1,6 +1,6 @@
 # PB2 Flying Script (AutoHotkey v2)
 
-This Script works with 2560×1440, 1920x1080 and 1920x1200
+This Script works with 2560×1440, 1920x1080, 1920x1200 and 1280x720
 
 press  **CTRL+SHIFT+B** to hide the bookmarks and use it with taskbar ON
 
