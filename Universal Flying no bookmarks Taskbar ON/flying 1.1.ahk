@@ -286,7 +286,7 @@ MenuTable() {
         "1920x1200", Map("escape_y", 579, "phy_low_x", 1235, "phy_high_x", 1364,
                          "phy_menu_y", 424, "fps_menu_y", 483, "logic_menu_y", 532),
         "2560x1440", Map("escape_y", 683, "phy_low_x", 1647, "phy_high_x", 1817,
-                         "phy_menu_y", 474, "fps_menu_y", 545, "logic_menu_y", 622)
+                         "phy_menu_y", 474, "fps_menu_y", 545, "logic_menu_y", 622),
         "1280x720", Map("escape_y", 357, "phy_low_x", 809, "phy_high_x", 886,
                          "phy_menu_y", 260, "fps_menu_y", 294, "logic_menu_y", 327)
     )
