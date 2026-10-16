@@ -24,7 +24,7 @@ press  **CTRL+SHIFT+B** to hide the bookmarks and use it with taskbar ON
 # How to Fly Fast
 
 1. Open the script.
-2. Start the game in fullscreen mode.
+2. Start the game with taskbar on and no bookmarks.
 3. Press: F1
 4. Press: Shift+F
 5. Hold: R_Click and X
