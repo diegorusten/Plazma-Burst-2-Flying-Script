@@ -54,7 +54,7 @@ Different FPS settings provide different movement mechanics and abilities.
 ## Low 30 FPS
 
 1. **High Selfboost**
-   - Jump, then press **X**, then slice upward to perform a strong selfboost.
+   - Jump, then press **X** and slice upward to perform a strong selfboost.
 
 
 ## Low 60 FPS
@@ -67,7 +67,7 @@ Uses:
 
 2. **Acid Walking**
    - Allows better survival when touching small acid areas.
-   - Can reduce damage from brief acid contact.
+   - Can walk on low acid.
 
 ## High 30 FPS
 
@@ -95,4 +95,4 @@ Uses:
      - Slice downward to gain a large movement boost.
 
 5. **Bad selfboost**
-   - High 60 FPS have a bad selfboost.
+   - High 60 FPS has a bad selfboost.
