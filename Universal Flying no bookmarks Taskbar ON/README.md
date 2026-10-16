@@ -85,4 +85,4 @@ Uses:
      - Slice downward to gain a large movement boost.
 
 5. **Bad selfboost**
-   - High 60 FPS have a bad selfboost.
+   - High 60 FPS has a bad selfboost.
