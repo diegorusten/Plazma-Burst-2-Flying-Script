@@ -57,7 +57,7 @@ Uses:
 
 2. **Acid Walking**
    - Allows better survival when touching small acid areas.
-   - Can reduce damage from brief acid contact.
+   - Can walk on low acid.
 
 ## High 30 FPS
 
