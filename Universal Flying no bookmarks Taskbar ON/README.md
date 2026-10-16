@@ -44,7 +44,7 @@ Different FPS settings provide different movement mechanics and abilities.
 ## Low 30 FPS
 
 1. **High Selfboost**
-   - Jump, then press **X**, then slice upward to perform a strong selfboost.
+   - Jump, then press **X** and slice upward to perform a strong selfboost.
 
 
 ## Low 60 FPS
