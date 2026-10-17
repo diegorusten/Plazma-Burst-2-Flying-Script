@@ -20,6 +20,7 @@ https://github.com/diegorusten/Plazma-Burst-2-Flying-Script/releases
 |---|---|
 | **F1** | Start script |
 | **F2** | Stop script |
+| **CTRL+ALT+O** | Hide Overlay |
 | **Shift + F** | Toggle High 60 FPS / Low 30 FPS |
 | **Right Click (High 60 FPS)** | Start flying |
 | **Right Click (Not High 60 FPS)** | Show current FPS and physics |
