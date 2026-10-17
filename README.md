@@ -6,7 +6,7 @@ The script allows fast flying by controlling mouse movement while switching betw
 
 ## Requirements
 
-- Windows
+- Windows 10-11
 - [AutoHotkey v2.0+](https://www.autohotkey.com/download/ahk-v2.exe) or downloading .exe
 
 ## 📥 Download
