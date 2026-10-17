@@ -1,8 +1,8 @@
 # PB2 Flying Script (AutoHotkey v2)
 
-This Script works with 2560×1440, 1920x1080, 1920x1200 and 1280x720
+This Script works with 16:9 resolutions and Fullscreen mode
 
-press  **CTRL+SHIFT+B** to hide the bookmarks and use it with taskbar ON
+press  **F11** to put game in fullscreen and play
 
 # Hotkeys
 
