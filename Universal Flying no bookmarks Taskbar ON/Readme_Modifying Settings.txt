@@ -1,21 +1,28 @@
 To modify the settings open flying_script.json with a notepad
 
-Example modification:
 
-  "logic": {
-    "high_30": "match",
-    "high_60": "unlimited",
-    "low_20": "match",
-    "low_30": "match",
-    "low_60": "match"
-  },
+Change the key after the modifier to choose another shortcut. For example,
 
-to
+  Before: low30_high60_change = shift+H
+  After:  low30_high60_change = shift+T
 
-  "logic": {
-    "high_30": "unlimited",
-    "high_60": "unlimited",
-    "low_20": "unlimited",
-    "low_30": "unlimited",
-    "low_60": "unlimited"
-  },
+Example: change low_30 from unlimited to match:
+  Before: low_30 = unlimited
+  After:  low_30 = match
+
+To change the sweep distance:
+Find:    range = 700
+Change:  range = 800
+Save the file and restart the script.
+
+To turn off right-click passthrough:
+Find:    right_click_passthrough = on
+Change:  right_click_passthrough = off
+
+To change a hotkey:
+Find:    start = F1
+Change:  start = F3
+
+To move the overlay lower:
+Find:    overlay_y = 300
+Change:  overlay_y = 400
